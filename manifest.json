@@ -1,0 +1,22 @@
+{
+  "short_name": "КиноСфера",
+  "name": "КиноСфера — Поиск фильмов и актеров",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#0c0c0c",
+  "display": "standalone",
+  "scope": "./",
+  "theme_color": "#e50914",
+  "description": "Приложение для поиска информации о фильмах, сериалах и актерах."
+}
